@@ -1,25 +1,35 @@
 # Pengantar Data Mining
 
 ## Tujuan
-Memahami konsep Data Mining, perubahan data menjadi informasi/pengetahuan, serta contoh penerapannya.
+Praktikum ini bertujuan memahami konsep dasar Data Mining, mengenali contoh penerapannya, mengetahui tahapan CRISP-DM, dan membaca data sederhana menggunakan Python.
+
+## Materi
+- Pengertian dan tujuan Data Mining
+- Contoh penerapan Data Mining
+- Pengenalan tahapan CRISP-DM
+- Membaca tabel sederhana menggunakan pandas
+- Mengamati dan menjelaskan pola awal pada data
+
+## File
+1. praktikum.ipynb — materi, latihan, kode, dan kesimpulan praktikum.
+
+## Cara Menjalankan 
+1. Buka praktikum.ipynb menggunakan Google Colab atau Jupyter Notebook.
+2. Jalankan sel kode dari atas ke bawah.
+3. Baca penjelasan sebelum menjalankan kode.
+4. Jawab semua latihan menggunakan kalimat sendiri.
+5. Lengkapi bagian kesimpulan.
+6. Simpan notebook yang sudah dikerjakan, lalu unggah kembali ke folder ini di GitHub.
 
 ## Dataset
-- Nama/sumber dataset: [isi setelah dataset dipilih]
-- Alasan pemilihan: [jelaskan singkat]
-
-## Langkah Praktikum
-1. Pahami tujuan dan struktur data.
-2. Periksa kualitas data dan lakukan preprocessing jika diperlukan.
-3. Implementasikan metode sesuai materi.
-4. Evaluasi atau ringkas hasil.
-5. Tuliskan interpretasi dan kesimpulan.
+Notebook menggunakan data transaksi toko fiktif yang dibuat langsung di dalam kode. Data ini hanya untuk latihan pengantar dan bukan data pelanggan sungguhan.
 
 ## Hasil
 - Temuan utama: [isi berdasarkan hasil aktual]
 - Visualisasi/tabel: [tambahkan jika relevan]
 
-## Kesimpulan
-[Tuliskan kesimpulan dengan bahasa sendiri berdasarkan hasil praktikum.]
+## Hasil Yang Di Harapkan 
 
-## Catatan
-Folder ini merupakan template. Sesuaikan isinya dengan instruksi praktikum aktual dari dosen.
+- Memahami konsep dasar Data Mining dan CRISP-DM.
+- Mampu membaca struktur tabel menggunakan pandas.
+- Mampu mengidentifikasi dan menjelaskan pola awal dengan hati-hati.
