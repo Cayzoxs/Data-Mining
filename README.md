@@ -24,10 +24,6 @@ Praktikum ini bertujuan memahami konsep dasar Data Mining, mengenali contoh pene
 ## Dataset
 Notebook menggunakan data transaksi toko fiktif yang dibuat langsung di dalam kode. Data ini hanya untuk latihan pengantar dan bukan data pelanggan sungguhan.
 
-## Hasil
-- Temuan utama: [isi berdasarkan hasil aktual]
-- Visualisasi/tabel: [tambahkan jika relevan]
-
 ## Hasil Yang Di Harapkan 
 
 - Memahami konsep dasar Data Mining dan CRISP-DM.
